@@ -16,3 +16,5 @@ Jackson Databind → To parse and extract values from the JSON response.
 
 API Used:
 A free public API: Official Joke API. This API provides random jokes in JSON format without requiring an API key.
+
+OUTPUT : ![Image](https://github.com/user-attachments/assets/44557ff4-c5ac-437e-b8e9-700f8ecc1f23)
