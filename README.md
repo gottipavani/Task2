@@ -6,7 +6,7 @@ DOMAIN : JAVA DEVELOPER
 DURATION : 6MONTHS
 MENTOR : NEELA SANTHOSH
 
-Description Of My Project REST API CLIENT : In this task, I developed a Java-based REST API Client using Apache HttpClient for making HTTP requests and Jackson for parsing JSON responses.
+Description Of My Project REST API CLIENT :In this task, I developed a Java-based REST API Client using Apache HttpClient for making HTTP requests and Jackson for parsing JSON responses.
 The objective was to consume a public API, process the response, and display the output in a structured and readable format.
 
 Implementation Details
